@@ -1,14 +1,19 @@
 # ToolsForOsint
 List of some tools that can be used during the SOCMINT (Social Media OSINT) investigation:
 
-# Facebook
+### Facebook
+* 
 
-# Twitter
+### Twitter
+* 
 
-# Linkedin
+### Linkedin
+*
 
-# Instagram
+### Instagram
+*
 
-# TikTok
+### TikTok
+*
 
-# Snapchat
+### Snapchat
