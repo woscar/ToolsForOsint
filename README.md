@@ -1,2 +1,14 @@
 # ToolsForOsint
-A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF
+List of some tools that can be used during the SOCMINT (Social Media OSINT) investigation:
+
+# Facebook
+
+# Twitter
+
+# Linkedin
+
+# Instagram
+
+# TikTok
+
+# Snapchat
